@@ -1,0 +1,18 @@
+[
+	{
+		"RxNo": 1234567,
+		"RxName": "Ibuprofen",
+		"PatientName": "James Johnson",
+		"FillBy": "October 7, 2021",
+		"Refills": "No",
+		"Prescriber": "Dr. Alex Finch"
+	},
+	{
+		"RxNo": 7654321,
+		"RxName": "Fluoxetine",
+		"PatientName": "Sarah Joy",
+		"FillBy": "October 12, 2021",
+		"Refills": "Yes",
+		"Prescriber": "Dr. Erden Green"
+	}
+]
