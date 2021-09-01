@@ -4,7 +4,7 @@
 		"RxName": "Ibuprofen",
 		"PatientName": "James Johnson",
 		"FillBy": "October 7, 2021",
-		"Refills": "No",
+		"Refills": false,
 		"Prescriber": "Dr. Alex Finch"
 	},
 	{
@@ -12,7 +12,7 @@
 		"RxName": "Fluoxetine",
 		"PatientName": "Sarah Joy",
 		"FillBy": "October 12, 2021",
-		"Refills": "Yes",
+		"Refills": true,
 		"Prescriber": "Dr. Erden Green"
 	}
 ]
